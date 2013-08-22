@@ -1,0 +1,6 @@
+{
+  "name": "node-tw-lists",
+  "dependencies": {
+    "oauth": "~0.9.10"
+  }
+}
